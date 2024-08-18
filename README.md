@@ -20,11 +20,11 @@ CSS
 <div align="center">
 Javascript
 </div><br>
-![image](https://github.com/user-attachments/assets/24a6ded0-02e6-4c6e-ac31-1074251e1456)
-![image](https://github.com/user-attachments/assets/752553f6-2ca5-4439-9f6d-b9f5f99805fd)
 
-                                             
-                                             
 You can find more details about each project, including project descriptions, code examples, and live demos, in the corresponding folders within this repository. Feel free to explore my work and reach out if you have any questions or would like to collaborate.
+
+![image](https://github.com/user-attachments/assets/24a6ded0-02e6-4c6e-ac31-1074251e1456)
+
+![image](https://github.com/user-attachments/assets/752553f6-2ca5-4439-9f6d-b9f5f99805fd)
 
 
