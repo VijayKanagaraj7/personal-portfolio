@@ -4,9 +4,9 @@ This repository contains my personal portfolio website, where I showcase my web 
 # [Instagram reach forecasting](https://colab.research.google.com/drive/1ff-3rgWFxiz1YQNq9mBXYQys9VZ65DDZ)
 # [Financial analysis](https://colab.research.google.com/drive/1MPO9HJM9xOt5Gpm42dk3y84LrobmLtz)
 # [Amazon sales analysis](https://colab.research.google.com/drive/1gID62LOSOgjPLfbdJazSRKDlFom7AqGZ)
-# [AI Sentiment analyzer](C:\Users\Vijay Sanjay\Documents\PROJECTS ND REPORTS\senti (1).py)
+# [AI Sentiment analyzer](https://colab.research.google.com/drive/1pS9hYgQTs12EGqXZ5ZMXadboz0jBGGh-)
 # [Logistic regression for diabetics](https://colab.research.google.com/drive/1OHExYPxh5R6kbmJvKUteRZRdz1GWY5PW)
-# [IoT and Data manipulation through excel](https://colab.research.google.com/drive/1Dw9_ORJK5iVb5G2_vo781CfYNC7748kN?usp=sharing
+# [IoT and Data manipulation through excel](https://colab.research.google.com/drive/1Dw9_ORJK5iVb5G2_vo781CfYNC7748kN?usp=sharing)
 demonstrating my proficiency in 
 <div align="center">
 Front end development
